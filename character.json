@@ -1,0 +1,173 @@
+{
+    "userid": 733,
+    "builds": [
+        {
+            "character": {
+                "name": "Yusi",
+                "server": "The Red Eclipse",
+                "guild": "Big In Japan",
+                "ac": "Jedi Sentinel",
+                "level": 60,
+                "valor": 80,
+                "social": "IX",
+                "discipline": "Watchman",
+                "faction": "Republic"
+            },
+            "stats": {
+                "mastery": 3800,
+                "presence": 500,
+                "endurance": 4000,
+                "expertise": 1800,
+                "critical": 750,
+                "alacrity": 650,
+                "accuracy": 550,
+                "defense": 450,
+                "absorb": 350,
+                "shield": 250,
+                "power": 9000
+            },
+            "misc": {
+                "stim": "mRe9jv5",
+                "stance": 2,
+                "buffs": [
+                    "5Y2yI9J",
+                    "x8UydTU",
+                    "rjQPVW6"
+                ]
+            },
+            "gear": {
+                "Mainhand": {
+                    "id": "d5ARTiE",
+                    "mods": {
+                        "hilt": "bScbc95",
+                        "mod": "tOR1yLO",
+                        "enhancement": "Xuc5WzL",
+                        "crystal": "0UPLE10",
+                        "augment": "2b9LJqB"
+                    },
+                    "slot": "7",
+                    "icon": "370523627_209172013.jpg"
+                },
+                "Offhand": {
+                    "id": "y8YbwQL",
+                    "mods": {
+                        "armoring": "OEfAec8",
+                        "mod": "tOR1yLO",
+                        "enhancement": "Xuc5WzL",
+                        "crystal": "0UPLE10",
+                        "augment": ""
+                    },
+                    "slot": "8",
+                    "icon": "3289279980_3127377475.jpg"
+                },
+                "Wrists": {
+                    "id": "39PYAZ4",
+                    "mods": {
+                        "armoring": "OEfAec8",
+                        "mod": "tOR1yLO",
+                        "augment": ""
+                    },
+                    "slot": "4",
+                    "icon": "1099941312_1738659820.jpg"
+                },
+                "Waist": {
+                    "id": "Xqw0lf0",
+                    "mods": {
+                        "armoring": "OEfAec8",
+                        "mod": "tOR1yLO",
+                        "augment": ""
+                    },
+                    "slot": "11",
+                    "icon": "2168904177_4243512548.jpg"
+                },
+                "Feet": {
+                    "id": "jR3UUD0",
+                    "mods": {
+                        "armoring": "OEfAec8",
+                        "mod": "tOR1yLO",
+                        "enhancement": "Xuc5WzL",
+                        "augment": ""
+                    },
+                    "slot": "9",
+                    "icon": "1055786735_892337518.jpg"
+                },
+                "Legs": {
+                    "id": "JodLho3",
+                    "mods": {
+                        "armoring": "OEfAec8",
+                        "mod": "tOR1yLO",
+                        "enhancement": "Xuc5WzL",
+                        "augment": ""
+                    },
+                    "slot": "10",
+                    "icon": "266911014_2557013718.jpg"
+                },
+                "Hands": {
+                    "id": "9ed1z04",
+                    "mods": {
+                        "armoring": "OEfAec8",
+                        "mod": "tOR1yLO",
+                        "enhancement": "Xuc5WzL",
+                        "augment": ""
+                    },
+                    "slot": "12",
+                    "icon": "1802897505_3647097862.jpg"
+                },
+                "Chest": {
+                    "id": "BsFF30B",
+                    "mods": {
+                        "armoring": "OEfAec8",
+                        "mod": "tOR1yLO",
+                        "enhancement": "Xuc5WzL",
+                        "augment": ""
+                    },
+                    "slot": "13",
+                    "icon": "3332326759_2386392995.jpg"
+                },
+                "Head": {
+                    "id": "13HDlK2",
+                    "mods": {
+                        "armoring": "OEfAec8",
+                        "mod": "tOR1yLO",
+                        "enhancement": "Xuc5WzL",
+                        "augment": ""
+                    },
+                    "slot": "14",
+                    "icon": "1685469368_1497420760.jpg"
+                },
+                "relic1": {
+                    "id": "k0GKtCA",
+                    "mods": {},
+                    "slot": "5",
+                    "icon": "1666051970_3877848514.jpg"
+                },
+                "relic2": {
+                    "id": "RpjhgE3",
+                    "mods": {},
+                    "slot": "6",
+                    "icon": "2868724801_4265988846.jpg"
+                },
+                "ear": {
+                    "id": "4HxSih7",
+                    "mods": {},
+                    "slot": "1",
+                    "icon": "2191187083_2581494832.jpg"
+                },
+                "implant1": {
+                    "id": "nFzHzgy",
+                    "mods": {
+                        "augment": "2b9LJqB"
+                    },
+                    "slot": "2",
+                    "icon": "2743827355_1313845834.jpg"
+                },
+                "implant2": {
+                    "id": "XVHaWTE",
+                    "mods": {},
+                    "slot": "3",
+                    "icon": "2743827355_1313845834.jpg"
+                }
+            }
+        }
+    ]
+}
